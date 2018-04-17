@@ -1,6 +1,8 @@
 # VerticalBar
 Binary release of -> https://github.com/DeromirNeves/VerticalBar
 
+Releases here -> https://github.com/afallon02/VerticalBar/releases
+
 Add as many Vertical bars to the macOS dock as you want.
 
 1. Download
